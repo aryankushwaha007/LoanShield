@@ -1,4 +1,4 @@
-# LoanShield: LMA Edge Hackathon Submission
+# LoanShield
 
 **LoanShield** is a next-generation **Automated Due Diligence Platform** designed for the Loan Syndications and Trading Association (LSTA) / LMA market. It streamlines the loan trade settling process by automating critical risk assessments—reducing manual error, speeding up settlement times, and providing real-time compliance feedback.
 
